@@ -1,1 +1,3 @@
-# TCM-Python-101-For-Hackers[certificate-of-completion-for-python-101-for-hackers.pdf](https://github.com/user-attachments/files/23582053/certificate-of-completion-for-python-101-for-hackers.pdf)
+# TCM-Python-101-For-Hackers
+
+<img width="1255" height="926" alt="image" src="https://github.com/user-attachments/assets/cb1b3275-297d-4aa6-900a-6c0d048c9bfa" />
